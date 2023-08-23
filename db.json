@@ -1,0 +1,178 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "nasi-goreng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "nasi-goreng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "mie-ayam.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 35000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bakso",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Pangsit Goreng",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "pangsit-goreng.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Kentang Goreng",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Lontong Sayur",
+      "harga": 22000,
+      "is_ready": true,
+      "gambar": "lontong-sayur.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Priscil",
+      "noMeja": "10",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "4",
+          "keterangan": "tidak pedas",
+          "product": {
+            "id": 6,
+            "kode": "K-06",
+            "nama": "Bakso",
+            "harga": 28000,
+            "is_ready": true,
+            "gambar": "bakso.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "Priscil",
+      "noMeja": "10",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "Tidak Pedas",
+          "product": {
+            "id": 6,
+            "kode": "K-06",
+            "nama": "Bakso",
+            "harga": 28000,
+            "is_ready": true,
+            "gambar": "bakso.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "5",
+          "keterangan": "Isi 5",
+          "product": {
+            "id": 7,
+            "kode": "K-07",
+            "nama": "Pangsit Goreng",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "pangsit-goreng.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "priscil",
+      "noMeja": "10",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "6",
+          "keterangan": "tidak pedas",
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
